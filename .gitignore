@@ -1,3 +1,4 @@
+# Combined .gitignore contents
 # Ignore node_modules
 node_modules/
 
@@ -20,3 +21,4 @@ dist/
 
 # Ignore coverage files
 coverage/
+
